@@ -404,24 +404,9 @@ left: 0;
   text-align: center;
 }
 
-.problem_section.container.row.col-lg-61:first-child {
-  float: left;
-  width: 50%;
-}
-
-.problem_section.container.row.col-lg-61:last-child {
-  float: right;
-  width: 50%;  
-}
-
-.problem_section .p {
-text-align: justify;
-}
-
-     
-
 .problem_section .img-box {
-  align-items: center;  
+  align-items: center;
+  width: 45%;
   margin: 0 auto;
 }
 
@@ -555,7 +540,6 @@ text-align: justify;
 
 .client_container .detail-box .img-box img {
   width: 100%;
-  margin-top: -1px;
 }
 
 .client_container .detail-box .name h5 {
